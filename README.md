@@ -1,6 +1,6 @@
 ## Moin liebe Besucher*in
 
-Herzlich willkommen auf meinem GitHub-Profil :)
+Herzlich willkommen auf meinem GitHub-Profil :) <br></br>
 Als Frontend Developer entwickle ich moderne Anwendungen mit einem kreativen Blick auf Design und dem Ziel von höchstmöglicher Zugänglichkeit und intuitiuver Bedienbarkeit. Mein Anspruch ist es, kreative Lösungen zu gestalten, die Performance, Design und Barrierefreiheit verbinden.
 
 ###### english version
@@ -13,7 +13,7 @@ I’m a frontend developer passionate about building modern applications that bl
 - https://www.linkedin.com/in/katharina-bohr-3380bb352/
 - kiwibohr@gmail.com
 
-- 
+  
 
 ### Techstack
 
