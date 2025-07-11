@@ -1,16 +1,14 @@
-## Hi there 👋
+## Moin liebe Besucher*in
 
-<!--
-**KiBohr/KiBohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem github Profil. Es freut mich, dass Du dich über mich erkundigen möchtest :)
+Ich bin Frontend Developer*in und habe viel Freude daran responisve, benutzer*innenfreundliche und performante Anwendungen zu entwickeln mit einem Fokus auf Accessability und einem kreativen Blick auf Design.
 
-Here are some ideas to get you started:
+# Kontakt
+- https://www.linkedin.com/in/katharina-bohr-3380bb352/
+- kiwibohr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Techstack
+
+
+
+
