@@ -10,6 +10,7 @@ Als Frontend Developer entwickle ich moderne Anwendungen mit einem kreativen Bli
 ### Techstack
 
 ![HTML5](https://github.com/user-attachments/assets/bb982599-2dfc-4c92-b37c-a7dc8c8eabe4)
+![JavaScript](https://github.com/user-attachments/assets/71d6139f-dc02-4c1a-b9c8-be7f741c16ab)
 
 
 
