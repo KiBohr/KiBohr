@@ -1,4 +1,4 @@
-![HTML5](https://github.com/user-attachments/assets/bb982599-2dfc-4c92-b37c-a7dc8c8eabe4)## Moin liebe Besucher*in
+## Moin liebe Besucher*in
 
 Herzlich willkommen auf meinem GitHub-Profil :)
 Als Frontend Developer entwickle ich moderne Anwendungen mit einem kreativen Blick auf Design und dem Ziel von höchstmöglicher Zugänglichkeit und intuitiuver Bedienbarkeit. Mein Anspruch ist es, kreative Lösungen zu gestalten, die Performance, Design und Barrierefreiheit verbinden.
@@ -9,10 +9,7 @@ Als Frontend Developer entwickle ich moderne Anwendungen mit einem kreativen Bli
 
 ### Techstack
 
-![Uploading HTML5.svg…](<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.30615 12.1296L11.7387 50.2964L27.1419 54.406L42.5879 50.3741L46.0243 12.1296H8.30615ZM38.8845 20.8187L38.6693 23.295L38.5746 24.4389H20.5059L20.9376 29.5324H38.1451L38.0301 30.4794L36.9201 42.75L36.8386 43.4673L27.1652 46.0709V46.0688L27.1538 46.0739L17.4859 43.5628L16.8297 36.3237H21.57L21.9058 39.9146L27.1627 41.247L27.1652 41.1477V41.1528L32.4336 40.0284L32.9837 34.2014H16.6187L15.4583 21.1128L15.3449 19.7699H38.9974L38.8845 20.8187ZM11.8661 1.35986H14.2524V3.71815H16.4358V1.35986H18.8225V8.50009H16.4358V6.10912H14.2528V8.50009H11.8661V1.35986ZM21.9605 3.72791H19.8595V1.35986H26.4492V3.72791H24.3473V8.50009H21.9605V3.72791ZM27.495 1.35986H29.9832L31.5142 3.86883L33.0435 1.35986H35.533V8.50009H33.1556V4.96096L31.5142 7.49964H31.4726L29.83 4.96096V8.50009H27.4946V1.35986H27.495ZM36.721 1.35986H39.1082V6.1401H42.4644V8.50051H36.721V1.35986Z" fill="#1572B6"/>
-</svg>
-)
+![HTML5](https://github.com/user-attachments/assets/bb982599-2dfc-4c92-b37c-a7dc8c8eabe4)
 
 
 
