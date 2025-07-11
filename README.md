@@ -29,3 +29,5 @@ I’m a frontend developer passionate about building modern applications that bl
 ![git](https://github.com/user-attachments/assets/f2e04305-0440-4fed-af36-02511e0984ab)
 ![Supabase](https://github.com/user-attachments/assets/f29b9e7f-1c5a-48a0-97a2-10b4ef892366)
 ![Figmaa](https://github.com/user-attachments/assets/469e8cf9-048a-4906-b529-f25b7b57a930)
+
+- HTML5, JavaScript, TypeScript, node.js, React, Next.js, CSS3, Sass, Tailwind, git, Supabase, Figma
