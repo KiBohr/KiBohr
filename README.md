@@ -12,6 +12,7 @@ I’m a web developer passionate about building modern applications that blend c
 ### Contact
 - https://www.linkedin.com/in/katharina-bohr-3380bb352/
 - kiwibohr@gmail.com
+- portfolio: https://portfolio-ashy-nine-91.vercel.app/
 
   
 
